@@ -139,11 +139,8 @@ F:\Steam\steamapps\workshop\content\244850
 ```
 se-localization-tool/
 ├── se_gui.py                 # Основное приложение
-├── look_crash.py             # Утилита для разбора крашей SE
-├── find_mod.py               # Поиск мода по имени блока
 ├── docs/
 │   ├── prompt.md             # Промт для нейронки
-│   └── screenshots/          # Скриншоты
 └── README.md
 ```
 
